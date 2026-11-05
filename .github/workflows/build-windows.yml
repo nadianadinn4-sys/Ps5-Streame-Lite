@@ -40,7 +40,7 @@ jobs:
             curl:p
             fast_float:p
             fftw:p
-            hidapi:p
+            mingw-w64-x86_64-hidapi:p
             json-c:p
             libevent:p
             lcms2:p
